@@ -18,15 +18,4 @@ This project features a comprehensive HTML and CSS webpage that covers key DBMS 
 
 Here’s a preview of what the webpage looks like:
 
-![DBMS Terminologies Webpage](https://user-images.githubusercontent.com/yourusername/your-repo/preview.jpg)  <!-- Replace this with a screenshot of your webpage -->
-
-## 🚀 Getting Started
-
-Follow these steps to get a local copy of the project up and running on your own machine:
-
-### 1. Clone the Repository
-
-Open your terminal or command prompt and run the following command:
-
-```bash
-git clone https://github.com/your-username/DBMS-basics.git
+![DBMS Terminologies Webpage]([https://user-images.githubusercontent.com/yourusername/your-repo/preview.jpg](http://127.0.0.1:5500/major.html)) 
